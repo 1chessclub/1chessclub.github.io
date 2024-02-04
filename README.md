@@ -1,2 +1,2 @@
-# chessclub-one.github.io
+# 1chessclub.github.io
 Basic hosting for the chess club pages.
